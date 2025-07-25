@@ -14,7 +14,8 @@ const saludarSegunHora = () => {
   return 'Hola como estás? :3';
 };
 
-const img = 'https://files.catbox.moe/6dewf4.jpg';
+const img = '.
+https://d.uguu.se/jswNNdth.png';
 
 const sectionDivider = '╰━━━━━━━━━━━━━━━━━━⭓';
 
