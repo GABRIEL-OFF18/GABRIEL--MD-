@@ -125,89 +125,7 @@ let handler = async (m, { conn, usedPrefix, text, command }) => {
 ┃┈➤ #estado
 ┃┈➤ #botreglas
 ┃┈➤ #menu
-┃┈➤ #menu2
-┃┈➤ #uptime
-┃┈➤ #menulista
-╰━━━━━━━━━━━━━
 
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮NUEVOS
-┃┈➤ #artista [nombre]
-┃┈➤ #dalle2
-┃┈➤ #repeat
-┃┈➤ #repite
-┃┈➤ #copiame
-┃┈➤ #soccer
-┃┈➤ #rcjugador
-┃┈➤ #rgjugador
-┃┈➤ #vtjugador
-╰━━━━━━━━━━━━━━━━━━
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮PERSONALIZACIÓN
-┃┈➤ #set
-╰━━━━━━━━━━━━━━━━━━
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮SUBBOTS
-┃┈➤ #setname
-┃┈➤ #setbanner
-┃┈➤ #code
-┃┈➤ #qr
-╰━━━━━━━━━━━━━━━━━━
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮BUSCADORES
-┃┈➤ #gitthubsearch
-┃┈➤ #google [Búsqueda]
-┃┈➤ #tiktoksearch
-┃┈➤ #pinterest
-┃┈➤ #imagen [querry]
-╰━━━━━━━━━━━━━━━━━━
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮JUEGOS
-┃┈➤ #abrazar
-┃┈➤ #acertijo
-┃┈➤ #agarrar
-┃┈➤ #ahorcado
-┃┈➤ #besar
-┃┈➤ #acariciar
-┃┈➤ #golpear
-┃┈➤ #pregunta
-┃┈➤ #reto
-┃┈➤ #triste
-┃┈➤ #reto
-┃┈➤ #bot
-┃┈➤ #love
-┃┈➤ #consejo
-┃┈➤ #dance
-┃┈➤ #nombreninja
-┃┈➤ #meme
-┃┈➤ #dormir 
-┃┈➤ #rata
-┃┈➤ #enamorada
-┃┈➤ #gay
-┃┈➤ #manco
-┃┈➤ #apostar
-┃┈➤ #piropo
-┃┈➤ #sonrojarse
-┃┈➤ #agarrar
-╰━━━━━━━━━━━━━━━━━━
-
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮WAIFU
-┃┈➤ #robarpersonaje
-┃┈➤ #obtenidos
-┃┈➤ #sacar
-┃┈➤ #guardar
-┃┈➤ #carrw
-┃┈➤ #confirmar
-┃┈➤ #character
-┃┈➤ #roll
-┃┈➤ #top
-╰━━━━━━━━━━━━━━━━━━
 
 
 .       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
@@ -337,34 +255,7 @@ let handler = async (m, { conn, usedPrefix, text, command }) => {
 ┃┈➤ #cheat
 ┃┈➤ #delprem
 ┃┈➤ #dsowner
-┃┈➤ #fixmsgespera
-┃┈➤ #get
-┃┈➤ #prefix
-┃┈➤ #reiniciar 
-┃┈➤ #saveplugin 
-┃┈➤ #update
-┃┈➤ #resetpersonajes
-╰━━━━━━━━━━━━━━━━━━
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮DESARROLLADORES
-┃┈➤ #autoadmin
-┃┈➤ #banuser
-┃┈➤ #unbanuser
-┃┈➤ #banchat
-┃┈➤ #unbanchat
-┃┈➤ #ip
-┃┈➤ #join
-╰━━━━━━━━━━━━━━━━━━
-
-.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
- ╭ֹ┈ ⵿❀⵿ ┈╮A - I
-┃┈➤ #dalle
-┃┈➤ #simi
-┃┈➤ #ai
-┃┈➤ #tovideo
-┃┈➤ #togifaud
-╰━━━━━━━━━━━━━━━━━━
+┃┈➤
 
 
 > © ⍴᥆ᥕᥱrᥱძ ᑲᥡ Félix Manuel`.trim(); // El resto del menú permanece igual
