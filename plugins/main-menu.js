@@ -11,7 +11,7 @@ const saludarSegunHora = () => {
   const hora = new Date().getHours();
   if (hora>= 5 && hora < 12) return '🌄 Buenos días';
   if (hora>= 12 && hora < 19) return '🌞 Buenas tardes';
-  return '🌙 Buenas noches';
+  return 'Hola como estás? :3';
 };
 
 const img = 'https://files.catbox.moe/6dewf4.jpg';
@@ -22,7 +22,7 @@ const menuFooter = `
 ╭─❒ 「📌 INFO FINAL」
 │ ⚠️ Usa los comandos con el prefijo correspondiente
 │ 📌 Ejemplo:.ping |.menu
-│ 🛡️ Creado por Barboza-Team
+│ 🛡️ Creado por Gabriel-ofc
 ╰❒
 `.trim();
 
@@ -78,7 +78,7 @@ const handler = async (m, { conn, usedPrefix}) => {
     const header = `
 ${saludo} ${tagUsuario} 👋
 
-╭─ 「 sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀 」
+╭─ 「 ELISABET-MD 🔥✌🏿」
 │ 👤 Nombre: ${userName}
 │ 🎖 Nivel: ${level} | XP: ${exp - min}/${xp}
 │ 🔓 Límite: ${limit}
