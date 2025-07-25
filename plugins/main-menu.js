@@ -79,7 +79,7 @@ const handler = async (m, { conn, usedPrefix}) => {
     const header = `
 ${saludo} ${tagUsuario} 👋
 
-╭─ 「 ELISABET-MD 🔥✌🏿」
+╭─ 「 ELISABET-MD 」
 │ 👤 Nombre: ${userName}
 │ 🎖 Nivel: ${level} | XP: ${exp - min}/${xp}
 │ 🔓 Límite: ${limit}
