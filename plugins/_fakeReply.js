@@ -3,7 +3,7 @@ import fetch from 'node-fetch'
 export async function before(m, { conn }) {
 let name = `ELISABET LA MAS 🔥 CHANNEL`
 let imagenes = ["https://h.uguu.se/OwhnBEii.jpg",
-"https://files.catbox.moe/6dewf4.jpg",
+"https://h.uguu.se/KeYYUBnC.jpg",
 "https://files.catbox.moe/6dewf4.jpg",
 "https://files.catbox.moe/6dewf4.jpg",]
 
