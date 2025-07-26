@@ -245,7 +245,7 @@ m.reply(`⚠️ *ELISABET ⚡ Notificación* ⚠️
 👤 *Estado actual:* *${isEnable? 'Activado ✅': 'Desactivado ❌'}*
 📍 *Ámbito:* ${isAll? '*Todo el Bot* 🌐': isUser? '*Usuario específico* 👥': '*Este Chat* 💬'}
 
-🚀 *Muchas gracias por usar ELISABETH 🫦*🎖️`)
+🚀 *Muchas gracias por usar ELISABETH 🫦*😍`)
 }
 
 handler.help = ['enable', 'disable', 'on', 'off']
