@@ -87,7 +87,9 @@ ${saludo} ${tagUsuario} 👋
 │ 🧭 Modo: ${mode}
 │ ⏱️ Tiempo activo: ${uptime}
 │ 🌍 Usuarios registrados: ${totalUsers}
-╰─❒
+╰─❒╔━━━━━━━━━━━━━━━╗
+     ❍ *AQUI ESTÁN LOS COMANDÓS*
+    ╚━━━━━━━━━━━━━━━╝
 `.trim();
 
     const fullMenu = `${header}\n\n${menuBody}\n\n${menuFooter}`;
