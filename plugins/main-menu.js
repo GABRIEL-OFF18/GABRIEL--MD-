@@ -11,7 +11,9 @@ const saludarSegunHora = () => {
   const hora = new Date().getHours();
   if (hora>= 5 && hora < 12) return '🌄 Buenos días';
   if (hora>= 12 && hora < 19) return '🌞 Buenas tardes';
-  return '🌙 Buenas noches';
+  return '╭─╮︹︹⊹︹︹⊹︹︹⊹︹︹╭─╮
+    ⚘݄𖠵⃕⁖𖥔͢BUENAS NOCHES ⚡
+╚▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬▭╝🌙 ';
 };
 
 const img = 'https://n.uguu.se/bSTYcbru.png';
